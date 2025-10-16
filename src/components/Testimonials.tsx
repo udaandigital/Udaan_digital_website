@@ -104,11 +104,11 @@ export default function Testimonials() {
 
         <div className="mt-16 grid md:grid-cols-4 gap-8 text-center">
           <div className="bg-white bg-opacity-10 backdrop-blur-sm rounded-2xl p-6">
-            <p className="text-4xl font-bold text-orange-400 mb-2">500+</p>
+            <p className="text-4xl font-bold text-orange-400 mb-2">50+</p>
             <p className="text-blue-200">Happy Clients</p>
           </div>
           <div className="bg-white bg-opacity-10 backdrop-blur-sm rounded-2xl p-6">
-            <p className="text-4xl font-bold text-orange-400 mb-2">1000+</p>
+            <p className="text-4xl font-bold text-orange-400 mb-2">100+</p>
             <p className="text-blue-200">Projects Completed</p>
           </div>
           <div className="bg-white bg-opacity-10 backdrop-blur-sm rounded-2xl p-6">

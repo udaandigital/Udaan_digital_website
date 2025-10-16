@@ -19,12 +19,12 @@ export default function About() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-shadow">
                   <Users className="h-10 w-10 text-orange-500 mb-3" />
-                  <p className="text-2xl font-bold text-blue-900">500+</p>
+                  <p className="text-2xl font-bold text-blue-900">50+</p>
                   <p className="text-gray-600">Happy Clients</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-xl transition-shadow">
                   <Award className="h-10 w-10 text-orange-500 mb-3" />
-                  <p className="text-2xl font-bold text-blue-900">1000+</p>
+                  <p className="text-2xl font-bold text-blue-900">100+</p>
                   <p className="text-gray-600">Projects Done</p>
                 </div>
               </div>
